@@ -1,0 +1,2 @@
+2026-06-03 11:08:48,147 - INFO: 开始创建 电力负荷模型类的 对象了
+2026-06-03 11:08:50,964 - INFO: 模型保存成功，路径:D:\pycharm\load_predict_project\model\power_load_model.pkl
